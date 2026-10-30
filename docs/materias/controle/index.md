@@ -1,27 +1,16 @@
 # Controle
 
-Controle de sistemas dinâmicos: como modelar um sistema físico, prever como ele responde e projetar um controlador para ele se comportar do jeito que você quer.
+Modelar sistemas dinâmicos e projetar controladores para que eles se comportem como queremos, até chegar à robótica.
 
-## Assuntos
+## Matérias
 
-| Assunto | Status |
-|---|---|
-| Modelagem e função de transferência | A fazer |
-| [Sistemas de 1ª ordem](primeira-ordem.md) | Exemplo pronto |
-| Sistemas de 2ª ordem | A fazer |
-| Estabilidade e critério de Routh | A fazer |
-| Lugar das raízes | A fazer |
-| Resposta em frequência e diagrama de Bode | A fazer |
-| Controlador PID | A fazer |
-
-## Ordem sugerida de estudo
-
-1. Transformada de Laplace (revisão de matemática)
-2. Modelagem e função de transferência
-3. Sistemas de 1ª e 2ª ordem
-4. Estabilidade
-5. Lugar das raízes e Bode
-6. PID
+| Matéria | Assuntos | Prontos |
+|---|---|---|
+| [Modelagem de Sistemas Dinâmicos 1 e 2](modelagem/index.md) | 7 | 0 |
+| [Controle de Sistemas Dinâmicos](controle-de-sistemas-dinamicos/index.md) | 8 | 1 |
+| [Controle Digital de Sistemas Dinâmicos](controle-digital/index.md) | 6 | 0 |
+| [Controle Multivariável](controle-multivariavel/index.md) | 6 | 0 |
+| [Introdução à Robótica](introducao-a-robotica/index.md) | 7 | 0 |
 
 ## Vídeos e canais da área
 

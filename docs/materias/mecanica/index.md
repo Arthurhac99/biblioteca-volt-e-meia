@@ -1,16 +1,20 @@
 # Mecânica
 
-Mecanismos, elementos de máquinas e dinâmica.
+Materiais, fabricação, estruturas e máquinas: a parte física de todo sistema mecatrônico.
 
-## Assuntos
+## Matérias
 
-| Assunto | Status |
-|---|---|
-| Mecanismos de barras | A fazer |
-| Engrenagens e transmissões | A fazer |
-| Eixos, mancais e rolamentos | A fazer |
-| Dinâmica de máquinas | A fazer |
-| Vibrações | A fazer |
+| Matéria | Assuntos | Prontos |
+|---|---|---|
+| [Materiais para Engenharia](materiais/index.md) | 6 | 0 |
+| [Processos de Fabricação](processos-de-fabricacao/index.md) | 6 | 0 |
+| [Estática Aplicada às Máquinas](estatica/index.md) | 6 | 0 |
+| [Dinâmica Aplicada às Máquinas](dinamica/index.md) | 7 | 0 |
+| [Mecânica dos Sólidos](mecanica-dos-solidos/index.md) | 7 | 0 |
+| [Mecanismos e Elementos de Máquinas](mecanismos-e-elementos/index.md) | 8 | 0 |
+| [Mecânica Computacional](mecanica-computacional/index.md) | 6 | 0 |
+| [Vibrações Mecânicas](vibracoes/index.md) | 7 | 0 |
+| [Motores de Combustão Interna](motores-de-combustao/index.md) *(optativa)* | 7 | 0 |
 
 ## Vídeos e canais da área
 

@@ -9,10 +9,12 @@ biblioteca-volt-e-meia/
 ├── zensical.toml          ← configuração do site (nome, cores, menu)
 ├── docs/                  ← todo o conteúdo do site fica aqui
 │   ├── index.md           ← página inicial
-│   ├── materias/          ← uma pasta por matéria
-│   │   └── controle/
-│   │       ├── index.md           ← página da matéria
-│   │       └── primeira-ordem.md  ← um assunto
+│   ├── materias/          ← uma pasta por área
+│   │   └── controle/                  ← área
+│   │       ├── index.md               ← página da área
+│   │       └── controle-de-sistemas-dinamicos/   ← matéria
+│   │           ├── index.md           ← página da matéria (lista de assuntos)
+│   │           └── primeira-ordem.md  ← um assunto
 │   ├── videos/index.md    ← curadoria de canais e playlists
 │   ├── sobre.md
 │   └── contribuir.md
@@ -49,8 +51,8 @@ Abra `http://localhost:8000` no navegador. A página atualiza sozinha cada vez q
 
 ## Como adicionar um assunto novo
 
-1. Copie `modelos/modelo-assunto.md` para a pasta da matéria, por exemplo `docs/materias/controle/segunda-ordem.md`.
+1. Copie `modelos/modelo-assunto.md` para a pasta da matéria, por exemplo `docs/materias/controle/controle-de-sistemas-dinamicos/segunda-ordem.md`.
 2. Escreva o conteúdo.
-3. Adicione a página no `nav` do `zensical.toml`.
-4. Atualize a tabela de assuntos no `index.md` da matéria.
+3. Adicione a página no `nav` do `zensical.toml`, dentro da matéria.
+4. Na tabela de assuntos do `index.md` da matéria, transforme o nome em link e mude o status.
 5. Faça commit e push. Em um ou dois minutos o site atualiza.

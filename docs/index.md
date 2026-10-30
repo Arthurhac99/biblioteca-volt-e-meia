@@ -14,7 +14,7 @@ A ideia é simples: cada assunto tem um resumo direto ao ponto e, logo abaixo, u
 
     ---
 
-    Resumos por disciplina: controle, automação, programação, máquinas, eletrônica e mecânica.
+    Sete áreas: elétrica, eletrônica, automação, controle, mecânica, computação e ciclo básico.
 
     [Ver matérias](materias/index.md)
 

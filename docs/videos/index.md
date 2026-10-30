@@ -10,41 +10,47 @@ Canais e playlists do YouTube que explicam bem cada área. A lista é feita à m
     - Vai direto ao ponto
     - Se for playlist, cobre o assunto do começo ao fim
 
-## Controle
+## Elétrica
 
-| Canal ou playlist | Assunto | Nível | Idioma |
+| Canal ou playlist | Matéria | Nível | Idioma |
 |---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Do que trata | Iniciante | PT |
-
-## Automação Industrial
-
-| Canal ou playlist | Assunto | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Do que trata | Iniciante | PT |
-
-## Programação e POO
-
-| Canal ou playlist | Assunto | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Do que trata | Iniciante | PT |
-
-## Máquinas Elétricas
-
-| Canal ou playlist | Assunto | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Do que trata | Iniciante | PT |
+| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
 
 ## Eletrônica
 
-| Canal ou playlist | Assunto | Nível | Idioma |
+| Canal ou playlist | Matéria | Nível | Idioma |
 |---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Do que trata | Iniciante | PT |
+| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
+
+## Automação
+
+| Canal ou playlist | Matéria | Nível | Idioma |
+|---|---|---|---|
+| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
+
+## Controle
+
+| Canal ou playlist | Matéria | Nível | Idioma |
+|---|---|---|---|
+| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
 
 ## Mecânica
 
-| Canal ou playlist | Assunto | Nível | Idioma |
+| Canal ou playlist | Matéria | Nível | Idioma |
 |---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Do que trata | Iniciante | PT |
+| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
+
+## Computação
+
+| Canal ou playlist | Matéria | Nível | Idioma |
+|---|---|---|---|
+| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
+
+## Ciclo Básico
+
+| Canal ou playlist | Matéria | Nível | Idioma |
+|---|---|---|---|
+| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
 
 ---
 
