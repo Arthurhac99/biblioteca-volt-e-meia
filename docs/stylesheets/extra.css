@@ -1,0 +1,21 @@
+/* Ajustes visuais da marca Volt e Meia */
+
+:root {
+  --vem-vermelho: #e53935;
+}
+
+/* Fórmulas grandes não estouram a tela no celular */
+.arithmatex {
+  overflow-x: auto;
+}
+
+/* Destaque em vermelho no nível de dificuldade dos vídeos */
+.nivel {
+  display: inline-block;
+  padding: 0 0.5em;
+  border-radius: 0.4em;
+  font-size: 0.75em;
+  font-weight: 700;
+  color: #fff;
+  background: var(--vem-vermelho);
+}

@@ -1,0 +1,11 @@
+# Site gerado (é criado de novo a cada build)
+site/
+
+# Ambiente virtual do Python
+.venv/
+venv/
+
+# Lixo do sistema
+.DS_Store
+Thumbs.db
+__pycache__/
