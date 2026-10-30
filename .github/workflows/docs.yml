@@ -24,6 +24,8 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: 3.x
+      - name: Conferir catálogo de vídeos
+        run: python scripts/conferir_catalogo.py
       - run: pip install zensical
       - run: zensical build --clean
       - uses: actions/configure-pages@v5

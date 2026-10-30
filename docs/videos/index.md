@@ -1,57 +1,17 @@
 # Vídeos e canais
 
-Canais e playlists do YouTube que explicam bem cada área. A lista é feita à mão: só entra o que foi assistido e aprovado.
+Canais e playlists do YouTube que explicam bem cada matéria. A lista é feita à mão: só entra o que foi assistido e aprovado.
 
-**Níveis:** <span class="nivel">Iniciante</span> dá para assistir sem base, <span class="nivel">Intermediário</span> pede a base da disciplina, <span class="nivel">Avançado</span> é para aprofundar.
+Use os filtros para achar o que precisa. O link da página guarda os filtros, então dá para mandar para um colega já filtrado.
 
-!!! info "Como um vídeo entra nesta lista"
+<div class="vem-catalogo"></div>
+
+[Sugerir um vídeo](https://github.com/Arthurhac99/biblioteca-volt-e-meia/issues/new?template=sugerir-video.yml){ .md-button .md-button--primary target="_blank" }
+
+??? info "Como um vídeo entra nesta lista"
     - A explicação está correta (conferida com livro ou aula)
     - Tem áudio e imagem razoáveis
     - Vai direto ao ponto
     - Se for playlist, cobre o assunto do começo ao fim
 
-## Elétrica
-
-| Canal ou playlist | Matéria | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
-
-## Eletrônica
-
-| Canal ou playlist | Matéria | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
-
-## Automação
-
-| Canal ou playlist | Matéria | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
-
-## Controle
-
-| Canal ou playlist | Matéria | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
-
-## Mecânica
-
-| Canal ou playlist | Matéria | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
-
-## Computação
-
-| Canal ou playlist | Matéria | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
-
-## Ciclo Básico
-
-| Canal ou playlist | Matéria | Nível | Idioma |
-|---|---|---|---|
-| [Nome do canal](https://www.youtube.com/) | Qual matéria | Iniciante | PT |
-
----
-
-Conhece um canal bom que não está aqui? Veja [como contribuir](../contribuir.md).
+    **Níveis:** Iniciante dá para assistir sem base, Intermediário pede a base da disciplina e Avançado é para aprofundar.

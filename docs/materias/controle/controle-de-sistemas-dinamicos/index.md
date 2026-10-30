@@ -17,4 +17,4 @@ Análise da resposta de sistemas e projeto de controladores clássicos.
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#controle).
+<div class="vem-videos" data-materia="controle-de-sistemas-dinamicos"></div>

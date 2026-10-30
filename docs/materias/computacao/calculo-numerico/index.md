@@ -16,4 +16,4 @@ Resolver no computador os problemas de matemática que não têm solução exata
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#computacao).
+<div class="vem-videos" data-materia="calculo-numerico"></div>

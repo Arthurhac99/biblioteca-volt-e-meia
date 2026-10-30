@@ -18,4 +18,4 @@ Lógica de programação e as estruturas de dados mais usadas.
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#computacao).
+<div class="vem-videos" data-materia="aeds"></div>

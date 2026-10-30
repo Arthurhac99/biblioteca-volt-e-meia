@@ -17,4 +17,4 @@ A base de toda a parte elétrica do curso: como analisar circuitos em corrente c
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#eletrica).
+<div class="vem-videos" data-materia="circuitos-eletricos"></div>

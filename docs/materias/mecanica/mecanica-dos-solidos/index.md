@@ -16,4 +16,4 @@ Como peças se deformam e quando elas falham sob carga.
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#mecanica).
+<div class="vem-videos" data-materia="mecanica-dos-solidos"></div>

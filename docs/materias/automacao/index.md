@@ -11,6 +11,6 @@ CLPs, redes industriais, supervisórios e instrumentação: como uma fábrica é
 | [Instrumentação e Sistemas de Medidas](instrumentacao/index.md) | 6 | 0 |
 | [Integração de Sistemas Automatizados](integracao-de-sistemas/index.md) | 5 | 0 |
 
-## Vídeos e canais da área
+## Vídeos da área
 
-Veja a seção de Automação em [Vídeos e canais](../../videos/index.md#automacao).
+<div class="vem-videos" data-area="automacao"></div>

@@ -16,6 +16,6 @@ Materiais, fabricação, estruturas e máquinas: a parte física de todo sistema
 | [Vibrações Mecânicas](vibracoes/index.md) | 7 | 0 |
 | [Motores de Combustão Interna](motores-de-combustao/index.md) *(optativa)* | 7 | 0 |
 
-## Vídeos e canais da área
+## Vídeos da área
 
-Veja a seção de Mecânica em [Vídeos e canais](../../videos/index.md#mecanica).
+<div class="vem-videos" data-area="mecanica"></div>

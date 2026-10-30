@@ -11,6 +11,6 @@ Componentes, circuitos analógicos e digitais e programação de microcontrolado
 | [Microprocessadores](microprocessadores/index.md) | 7 | 0 |
 | [Sistemas Embarcados](sistemas-embarcados/index.md) | 6 | 0 |
 
-## Vídeos e canais da área
+## Vídeos da área
 
-Veja a seção de Eletrônica em [Vídeos e canais](../../videos/index.md#eletronica).
+<div class="vem-videos" data-area="eletronica"></div>

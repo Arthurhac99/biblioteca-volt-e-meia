@@ -15,4 +15,4 @@ Do que as coisas são feitas e por que cada material se comporta de um jeito.
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#mecanica).
+<div class="vem-videos" data-materia="materiais"></div>

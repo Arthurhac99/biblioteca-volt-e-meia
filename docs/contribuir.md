@@ -2,9 +2,22 @@
 
 Toda ajuda é bem-vinda: corrigir um erro, sugerir um vídeo ou escrever um resumo inteiro.
 
-## Sugerir um vídeo ou apontar um erro
+## Sugerir um vídeo
 
-Abra uma **issue** no repositório do GitHub dizendo qual página, o que está errado ou qual vídeo você indica (com o link e por que ele é bom).
+Conhece um vídeo, playlist ou canal que explica bem algum assunto? Preencha o formulário:
+
+[Sugerir um vídeo](https://github.com/Arthurhac99/biblioteca-volt-e-meia/issues/new?template=sugerir-video.yml){ .md-button .md-button--primary target="_blank" }
+
+Cada sugestão é assistida antes de entrar no [catálogo](videos/index.md).
+
+## Apontar um erro
+
+Encontrou algo errado num resumo, numa fórmula ou num notebook? Conte aqui:
+
+[Apontar um erro](https://github.com/Arthurhac99/biblioteca-volt-e-meia/issues/new?template=apontar-erro.yml){ .md-button target="_blank" }
+
+!!! info "Precisa de uma conta no GitHub"
+    Os dois formulários ficam no GitHub, então é preciso estar logado. Criar a conta é grátis e leva um minuto.
 
 ## Editar uma página
 
@@ -17,4 +30,4 @@ Abra uma **issue** no repositório do GitHub dizendo qual página, o que está e
 - Escreva com suas palavras. Não copie trechos de livros, apostilas ou slides de professores.
 - Vídeos entram só como link. Nunca baixe e publique o vídeo de outra pessoa.
 - Fórmulas em LaTeX: `\( ... \)` no meio do texto e `$$ ... $$` em linha separada.
-- Use o modelo da pasta `modelos/` para criar páginas novas.
+- Use os modelos da pasta `modelos/` para criar páginas e notebooks novos.

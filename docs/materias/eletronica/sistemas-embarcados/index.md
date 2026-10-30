@@ -15,4 +15,4 @@ Projeto de sistemas completos com microcontrolador: firmware, periféricos e tem
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#eletronica).
+<div class="vem-videos" data-materia="sistemas-embarcados"></div>

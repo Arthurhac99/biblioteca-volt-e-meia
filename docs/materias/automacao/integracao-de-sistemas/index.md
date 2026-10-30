@@ -14,4 +14,4 @@ Juntar CLP, IHM, supervisório, redes e robôs num sistema que funciona de ponta
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#automacao).
+<div class="vem-videos" data-materia="integracao-de-sistemas"></div>

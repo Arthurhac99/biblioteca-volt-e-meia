@@ -17,4 +17,4 @@ Transformadores, motores e geradores: como funcionam e como são acionados e con
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#eletrica).
+<div class="vem-videos" data-materia="maquinas-e-acionamentos"></div>

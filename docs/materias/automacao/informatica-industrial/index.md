@@ -16,4 +16,4 @@ Controladores lógicos programáveis e a programação de comandos industriais.
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#automacao).
+<div class="vem-videos" data-materia="informatica-industrial"></div>

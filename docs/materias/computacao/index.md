@@ -11,6 +11,6 @@ Algoritmos, programação, métodos numéricos e desenho técnico assistido por 
 | [Cálculo Numérico](calculo-numerico/index.md) | 7 | 0 |
 | [Projeto e Computação Gráfica 1 e 2](pcg/index.md) | 6 | 0 |
 
-## Vídeos e canais da área
+## Vídeos da área
 
-Veja a seção de Computação em [Vídeos e canais](../../videos/index.md#computacao).
+<div class="vem-videos" data-area="computacao"></div>

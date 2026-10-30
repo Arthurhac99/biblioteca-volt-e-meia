@@ -17,4 +17,4 @@ Diodos, transistores e amplificadores: os blocos básicos de qualquer circuito e
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#eletronica).
+<div class="vem-videos" data-materia="eletronica-1-e-2"></div>

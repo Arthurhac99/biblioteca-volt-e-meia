@@ -15,4 +15,4 @@ Como as peças são produzidas: fundir, conformar, usinar, soldar e imprimir.
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#mecanica).
+<div class="vem-videos" data-materia="processos-de-fabricacao"></div>

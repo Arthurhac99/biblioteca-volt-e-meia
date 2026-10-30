@@ -12,6 +12,6 @@ Modelar sistemas dinâmicos e projetar controladores para que eles se comportem 
 | [Controle Multivariável](controle-multivariavel/index.md) | 6 | 0 |
 | [Introdução à Robótica](introducao-a-robotica/index.md) | 7 | 0 |
 
-## Vídeos e canais da área
+## Vídeos da área
 
-Veja a seção de Controle em [Vídeos e canais](../../videos/index.md#controle).
+<div class="vem-videos" data-area="controle"></div>

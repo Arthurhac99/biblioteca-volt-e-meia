@@ -1,0 +1,186 @@
+{
+  "areas": [
+    {
+      "slug": "eletrica",
+      "nome": "Elétrica",
+      "materias": [
+        {
+          "slug": "circuitos-eletricos",
+          "nome": "Circuitos Elétricos 1 e 2"
+        },
+        {
+          "slug": "eletronica-de-potencia",
+          "nome": "Eletrônica de Potência"
+        },
+        {
+          "slug": "maquinas-e-acionamentos",
+          "nome": "Máquinas e Acionamentos Elétricos"
+        },
+        {
+          "slug": "laboratorio-de-maquinas",
+          "nome": "Laboratório de Máquinas e Acionamentos"
+        },
+        {
+          "slug": "qualidade-de-energia",
+          "nome": "Qualidade de Energia Elétrica"
+        }
+      ]
+    },
+    {
+      "slug": "eletronica",
+      "nome": "Eletrônica",
+      "materias": [
+        {
+          "slug": "eletronica-1-e-2",
+          "nome": "Eletrônica 1 e 2"
+        },
+        {
+          "slug": "sistemas-digitais",
+          "nome": "Sistemas Digitais"
+        },
+        {
+          "slug": "microprocessadores",
+          "nome": "Microprocessadores"
+        },
+        {
+          "slug": "sistemas-embarcados",
+          "nome": "Sistemas Embarcados"
+        }
+      ]
+    },
+    {
+      "slug": "automacao",
+      "nome": "Automação",
+      "materias": [
+        {
+          "slug": "informatica-industrial",
+          "nome": "Informática Industrial"
+        },
+        {
+          "slug": "automacao-industrial",
+          "nome": "Automação Industrial"
+        },
+        {
+          "slug": "instrumentacao",
+          "nome": "Instrumentação e Sistemas de Medidas"
+        },
+        {
+          "slug": "integracao-de-sistemas",
+          "nome": "Integração de Sistemas Automatizados"
+        }
+      ]
+    },
+    {
+      "slug": "controle",
+      "nome": "Controle",
+      "materias": [
+        {
+          "slug": "modelagem",
+          "nome": "Modelagem de Sistemas Dinâmicos 1 e 2"
+        },
+        {
+          "slug": "controle-de-sistemas-dinamicos",
+          "nome": "Controle de Sistemas Dinâmicos"
+        },
+        {
+          "slug": "controle-digital",
+          "nome": "Controle Digital de Sistemas Dinâmicos"
+        },
+        {
+          "slug": "controle-multivariavel",
+          "nome": "Controle Multivariável"
+        },
+        {
+          "slug": "introducao-a-robotica",
+          "nome": "Introdução à Robótica"
+        }
+      ]
+    },
+    {
+      "slug": "mecanica",
+      "nome": "Mecânica",
+      "materias": [
+        {
+          "slug": "materiais",
+          "nome": "Materiais para Engenharia"
+        },
+        {
+          "slug": "processos-de-fabricacao",
+          "nome": "Processos de Fabricação"
+        },
+        {
+          "slug": "estatica",
+          "nome": "Estática Aplicada às Máquinas"
+        },
+        {
+          "slug": "dinamica",
+          "nome": "Dinâmica Aplicada às Máquinas"
+        },
+        {
+          "slug": "mecanica-dos-solidos",
+          "nome": "Mecânica dos Sólidos"
+        },
+        {
+          "slug": "mecanismos-e-elementos",
+          "nome": "Mecanismos e Elementos de Máquinas"
+        },
+        {
+          "slug": "mecanica-computacional",
+          "nome": "Mecânica Computacional"
+        },
+        {
+          "slug": "vibracoes",
+          "nome": "Vibrações Mecânicas"
+        },
+        {
+          "slug": "motores-de-combustao",
+          "nome": "Motores de Combustão Interna"
+        }
+      ]
+    },
+    {
+      "slug": "computacao",
+      "nome": "Computação",
+      "materias": [
+        {
+          "slug": "aeds",
+          "nome": "Algoritmos e Estruturas de Dados 1 e 2"
+        },
+        {
+          "slug": "poo",
+          "nome": "Programação Orientada a Objetos"
+        },
+        {
+          "slug": "calculo-numerico",
+          "nome": "Cálculo Numérico"
+        },
+        {
+          "slug": "pcg",
+          "nome": "Projeto e Computação Gráfica 1 e 2"
+        }
+      ]
+    },
+    {
+      "slug": "ciclo-basico",
+      "nome": "Ciclo Básico",
+      "materias": [
+        {
+          "slug": "calculo",
+          "nome": "Cálculo Diferencial e Integral 1, 2 e 3"
+        },
+        {
+          "slug": "geometria-analitica",
+          "nome": "Geometria Analítica"
+        },
+        {
+          "slug": "algebra-linear",
+          "nome": "Álgebra Linear"
+        },
+        {
+          "slug": "equacoes-diferenciais",
+          "nome": "Equações Diferenciais"
+        }
+      ]
+    }
+  ]
+}

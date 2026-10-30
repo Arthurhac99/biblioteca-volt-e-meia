@@ -11,6 +11,6 @@ A matemática que sustenta todo o resto: cálculo, geometria analítica, álgebr
 | [Álgebra Linear](algebra-linear/index.md) | 6 | 0 |
 | [Equações Diferenciais](equacoes-diferenciais/index.md) | 4 | 0 |
 
-## Vídeos e canais da área
+## Vídeos da área
 
-Veja a seção de Ciclo Básico em [Vídeos e canais](../../videos/index.md#ciclo-basico).
+<div class="vem-videos" data-area="ciclo-basico"></div>

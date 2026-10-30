@@ -30,3 +30,124 @@
   color: #fff;
   background: var(--vem-vermelho);
 }
+
+/* ---------- Catálogo de vídeos ---------- */
+
+.vem-filtros {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.vem-campo {
+  flex: 1 1 10rem;
+  min-width: 0;
+  padding: 0.45rem 0.6rem;
+  font: inherit;
+  font-size: 0.75rem;
+  color: var(--md-default-fg-color, CanvasText);
+  background-color: var(--md-default-bg-color, Canvas);
+  border: 1px solid var(--md-default-fg-color--lighter, rgba(128, 128, 128, 0.45));
+  border-radius: 0.4rem;
+}
+
+.vem-busca {
+  flex-basis: 100%;
+}
+
+.vem-campo:focus {
+  outline: 2px solid var(--vem-vermelho);
+  outline-offset: 1px;
+}
+
+.vem-contador {
+  font-size: 0.7rem;
+  opacity: 0.75;
+  margin: 0.25rem 0 0.75rem;
+}
+
+.vem-grade {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.75rem;
+}
+
+.vem-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 0.8rem 0.9rem;
+  border: 1px solid var(--md-default-fg-color--lightest, rgba(128, 128, 128, 0.3));
+  border-radius: 0.6rem;
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.vem-card:hover {
+  border-color: var(--vem-vermelho);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.12);
+}
+
+.vem-card p,
+.vem-card h3 {
+  margin: 0;
+}
+
+.vem-card-etiquetas {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.vem-etiqueta {
+  display: inline-block;
+  padding: 0 0.5em;
+  border-radius: 0.4em;
+  font-size: 0.75em;
+  border: 1px solid var(--md-default-fg-color--lighter, rgba(128, 128, 128, 0.45));
+}
+
+.vem-card-titulo {
+  font-size: 0.85rem;
+  line-height: 1.35;
+}
+
+.vem-card-canal {
+  font-size: 0.72rem;
+  font-weight: 700;
+  opacity: 0.8;
+}
+
+.vem-card-descricao {
+  font-size: 0.72rem;
+  line-height: 1.5;
+}
+
+.vem-card-materia {
+  margin-top: auto !important;
+  padding-top: 0.3rem;
+  font-size: 0.65rem;
+  opacity: 0.65;
+}
+
+.vem-vazio,
+.vem-carregando {
+  padding: 0.8rem 1rem;
+  border: 1px dashed var(--md-default-fg-color--lighter, rgba(128, 128, 128, 0.45));
+  border-radius: 0.6rem;
+}
+
+.vem-rodape {
+  font-size: 0.72rem;
+  margin-top: 0.75rem;
+}
+
+.vem-sugerir {
+  font-weight: 700;
+  color: var(--vem-vermelho) !important;
+}
+
+/* Botão "Abrir no Colab" alinhado ao texto */
+.colab img {
+  vertical-align: middle;
+}

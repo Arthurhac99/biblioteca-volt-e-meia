@@ -19,4 +19,4 @@ Por que máquinas vibram, como prever isso e como evitar a ressonância.
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#mecanica).
+<div class="vem-videos" data-materia="vibracoes"></div>

@@ -12,6 +12,6 @@ Circuitos, conversão de energia e máquinas elétricas: da análise de um circu
 | [Laboratório de Máquinas e Acionamentos](laboratorio-de-maquinas/index.md) | 5 | 0 |
 | [Qualidade de Energia Elétrica](qualidade-de-energia/index.md) *(optativa)* | 6 | 0 |
 
-## Vídeos e canais da área
+## Vídeos da área
 
-Veja a seção de Elétrica em [Vídeos e canais](../../videos/index.md#eletrica).
+<div class="vem-videos" data-area="eletrica"></div>

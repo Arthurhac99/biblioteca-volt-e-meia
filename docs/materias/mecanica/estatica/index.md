@@ -15,4 +15,4 @@ Forças em equilíbrio: a base para dimensionar qualquer estrutura ou componente
 
 ## Vídeos recomendados
 
-Ainda não há vídeos selecionados para esta matéria. Enquanto isso, veja os canais da área em [Vídeos e canais](../../../videos/index.md#mecanica).
+<div class="vem-videos" data-materia="estatica"></div>

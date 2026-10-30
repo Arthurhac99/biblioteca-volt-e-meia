@@ -61,6 +61,12 @@ Ou seja, o capacitor chega a 63,2 % da tensão da fonte em 1 s e está praticame
 
 ## Simulando em Python
 
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arthurhac99/biblioteca-volt-e-meia/blob/main/notebooks/controle/controle-de-sistemas-dinamicos/primeira-ordem.ipynb){ .colab target="_blank" }
+
+O notebook do Colab tem a versão completa: controles deslizantes para mudar \(K\) e \(\tau\), o exemplo do circuito RC, a comparação com a biblioteca de controle do Python e como descobrir \(\tau\) a partir de dados medidos. Roda no navegador, sem instalar nada.
+
+Abaixo, o essencial:
+
 ```python
 import numpy as np
 import matplotlib.pyplot as plt
@@ -79,8 +85,6 @@ plt.grid(True)
 plt.show()
 ```
 
-Dá para rodar direto no Google Colab.
-
 ## Onde isso aparece na prática
 
 - Carga e descarga de capacitor (RC) e corrente num indutor (RL)
@@ -90,25 +94,7 @@ Dá para rodar direto no Google Colab.
 
 ## Vídeos recomendados
 
-<div class="grid cards" markdown>
-
--   __Nome do vídeo ou playlist__ <span class="nivel">Iniciante</span>
-
-    ---
-
-    Canal: nome do canal. Uma frase dizendo por que vale assistir.
-
-    [Assistir no YouTube](https://www.youtube.com/)
-
--   __Nome do vídeo ou playlist__ <span class="nivel">Intermediário</span>
-
-    ---
-
-    Canal: nome do canal. Uma frase dizendo por que vale assistir.
-
-    [Assistir no YouTube](https://www.youtube.com/)
-
-</div>
+<div class="vem-videos" data-materia="controle-de-sistemas-dinamicos"></div>
 
 ## Referências
 

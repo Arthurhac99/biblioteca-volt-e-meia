@@ -1,0 +1,82 @@
+name: Sugerir um vídeo
+description: Indique um vídeo, playlist ou canal do YouTube para a Biblioteca Volt e Meia.
+title: "[Vídeo] "
+labels: ["sugestão de vídeo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a montar o catálogo! Só entram vídeos que explicam o assunto corretamente e vão direto ao ponto.
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Endereço do vídeo, da playlist ou do canal.
+      placeholder: https://www.youtube.com/...
+    validations:
+      required: true
+  - type: input
+    id: canal
+    attributes:
+      label: Nome do canal
+      placeholder: "Ex.: Canal do Professor Fulano"
+  - type: dropdown
+    id: area
+    attributes:
+      label: Área
+      options:
+        - Elétrica
+        - Eletrônica
+        - Automação
+        - Controle
+        - Mecânica
+        - Computação
+        - Ciclo Básico
+    validations:
+      required: true
+  - type: input
+    id: materia
+    attributes:
+      label: Matéria
+      description: Qual matéria esse conteúdo ajuda a estudar?
+      placeholder: "Ex.: Controle de Sistemas Dinâmicos"
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo
+      options:
+        - Vídeo
+        - Playlist
+        - Canal inteiro
+  - type: dropdown
+    id: nivel
+    attributes:
+      label: Nível
+      options:
+        - Iniciante (dá para assistir sem base)
+        - Intermediário (pede a base da disciplina)
+        - Avançado (para aprofundar)
+        - Não sei dizer
+  - type: dropdown
+    id: idioma
+    attributes:
+      label: Idioma
+      options:
+        - Português
+        - Inglês
+        - Espanhol
+        - Outro
+  - type: textarea
+    id: motivo
+    attributes:
+      label: Por que vale a pena?
+      description: Uma ou duas frases sobre o que esse conteúdo explica bem.
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirmacao
+    attributes:
+      label: Confirmação
+      options:
+        - label: Assisti e, até onde sei, a explicação está correta.
+          required: true

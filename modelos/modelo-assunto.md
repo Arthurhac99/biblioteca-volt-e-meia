@@ -23,6 +23,12 @@ $$
 
 Enunciado curto, passo a passo da solução e o resultado com unidade.
 
+## Simulação
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Arthurhac99/biblioteca-volt-e-meia/blob/main/notebooks/AREA/MATERIA/ASSUNTO.ipynb){ .colab target="_blank" }
+
+Uma frase dizendo o que o notebook mostra. Apague esta seção se o assunto não tiver notebook.
+
 ## Onde isso aparece na prática
 
 - Aplicação 1
@@ -30,17 +36,8 @@ Enunciado curto, passo a passo da solução e o resultado com unidade.
 
 ## Vídeos recomendados
 
-<div class="grid cards" markdown>
-
--   __Nome do vídeo ou playlist__ <span class="nivel">Iniciante</span>
-
-    ---
-
-    Canal: nome do canal. Por que vale assistir.
-
-    [Assistir no YouTube](https://www.youtube.com/)
-
-</div>
+<!-- Troque SLUG-DA-MATERIA pelo nome da pasta da matéria, por exemplo: controle-de-sistemas-dinamicos -->
+<div class="vem-videos" data-materia="SLUG-DA-MATERIA"></div>
 
 ## Referências
 

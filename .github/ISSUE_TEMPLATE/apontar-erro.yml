@@ -1,0 +1,29 @@
+name: Apontar um erro
+description: Encontrou algo errado num resumo, fórmula, notebook ou link? Conte aqui.
+title: "[Erro] "
+labels: ["erro no conteúdo"]
+body:
+  - type: input
+    id: pagina
+    attributes:
+      label: Página
+      description: Copie o endereço da página onde está o erro.
+      placeholder: https://arthurhac99.github.io/biblioteca-volt-e-meia/...
+    validations:
+      required: true
+  - type: textarea
+    id: erro
+    attributes:
+      label: O que está errado?
+      description: Se possível, copie o trecho ou a fórmula.
+    validations:
+      required: true
+  - type: textarea
+    id: correcao
+    attributes:
+      label: Como deveria ser?
+  - type: input
+    id: fonte
+    attributes:
+      label: Fonte
+      description: Livro, capítulo ou aula que confirma a correção (opcional, mas ajuda muito).
