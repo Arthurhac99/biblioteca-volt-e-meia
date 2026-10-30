@@ -9,6 +9,10 @@ Dois problemas me levaram a fazer isso:
 
 Este site faz parte do **Volt e Meia** (@voltemeiabr no Instagram e no TikTok).
 
+![1,5V](assets/1v5-banner.png){ .banner .banner-pequeno }
+
+O nome é um trocadilho: volt e meia é 1,5 V, a tensão de uma pilha comum. E a vírgula do logo virou faísca.
+
 ## Aviso
 
 Os resumos são escritos por um estudante e podem ter erros. Sempre confira com a bibliografia da sua disciplina. Achou um erro? Veja [como contribuir](contribuir.md).

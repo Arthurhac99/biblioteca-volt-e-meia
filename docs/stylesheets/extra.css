@@ -1,7 +1,18 @@
 /* Ajustes visuais da marca Volt e Meia */
 
 :root {
-  --vem-vermelho: #e53935;
+  --vem-vermelho: #e43127;
+}
+
+/* Banners da marca (fundo escuro próprio, funcionam no modo claro e no escuro) */
+.banner {
+  display: block;
+  width: 100%;
+  border-radius: 0.6rem;
+}
+
+.banner-pequeno {
+  max-width: 360px;
 }
 
 /* Fórmulas grandes não estouram a tela no celular */

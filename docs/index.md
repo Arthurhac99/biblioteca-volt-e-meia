@@ -1,3 +1,5 @@
+![Volt e Meia](assets/volt-e-meia-banner.png){ .banner }
+
 # Biblioteca Volt e Meia
 
 Resumos e vídeos de **Engenharia Mecatrônica**, organizados por matéria, num lugar só.

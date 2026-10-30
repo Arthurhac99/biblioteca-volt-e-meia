@@ -42,6 +42,8 @@ nav = [
 
 [project.theme]
 language = "pt-BR"
+logo = "assets/logo.svg"        # o "V" das pontas de prova, no topo do site
+favicon = "assets/favicon.svg"  # ícone redondo na aba do navegador
 features = [
   "content.code.copy",
   "content.tabs.link",
